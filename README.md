@@ -20,7 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+add to your js 
+
+```js
+//= require umeditor
+```
 
 ## Contributing
 
