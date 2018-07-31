@@ -20,11 +20,17 @@ Or install it yourself as:
 
 ## Usage
 
-add to your js 
+1. add to your js 
+	
+	```js
+	//= require umeditor
+	```
 
-```js
-//= require umeditor
-```
+2. add to your scss file
+
+	```scss
+	@import 'umeditor';
+	```
 
 ## Contributing
 
